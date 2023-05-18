@@ -5,6 +5,7 @@
 }
 
 .email-form > input {
+  box-sizing: border-box;
   background: none;
   outline: none;
   border: none;
@@ -12,6 +13,8 @@
   height: 67px;
   background: white;
   padding-left: 22px;
+  border: 1px solid var( --bag-light-blue);
+  border-right: transparent;
 }
 
 .email-form > button {
