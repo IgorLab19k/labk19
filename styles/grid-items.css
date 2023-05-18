@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+}
+
+.grid-card {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 100%;
+}
+

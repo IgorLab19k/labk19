@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+}
+
+header > .top-proposal {
+    background: var(--orange);
+    color: var(--text-blue);
+    height: 72px;
+}
+
+header > .top-proposal h3 {
+    font: normal normal bold 24px/29px Montserrat;
+    text-transform: uppercase;
+}
+
+header > .main-header {
+    background-color: var(--blue);
+    height: 88px;
+}
+
+header > .main-header > h1 {
+    color: var(--text-grey);
+}

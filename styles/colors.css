@@ -1,0 +1,16 @@
+:root {
+    /* general */
+    --orange: #FFA100;
+    --blue: #280082;
+    --dark-blue: #280082;
+    --grey: #333333;
+    /* texts */
+    --light-blue: #BCE0FD;
+    --text-grey: #E1E3E7;
+    --text-blue: #280082;
+    --text-orange: #FFA100;
+}
+
+.text-white {
+    color: white !important;
+}
