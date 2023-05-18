@@ -1,0 +1,22 @@
+.offsporter__logo {
+  font-size: 28px;
+}
+.offsporter {
+  color: var(--text-light-grey);
+}
+
+.offsport__subtitle {
+  font-size: 16px;
+}
+
+.offsporter__logo-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.offsport__logo-labk19 {
+  width: 110px;
+  height: 32px;
+}

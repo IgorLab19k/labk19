@@ -1,0 +1,22 @@
+.text-block {
+  color: var(--light-grey);
+  font-family: Montserrat, serif;
+  background-color: var(bag-light-blue);
+}
+.text-block__title {
+  font-size: 29px;
+  font-weight: 800;
+  margin-bottom: 18px;
+  line-height: 24px;
+}
+
+.text-block {
+  background-color: var(--bag-light-blue);
+}
+
+.text-block__subtitle {
+  max-width: 369px;
+  font-weight: 300;
+  font-size: 29px;
+  line-height: 29px;
+}

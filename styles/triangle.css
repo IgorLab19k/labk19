@@ -1,0 +1,28 @@
+.triangle__item {
+  position: absolute;
+  left: 55%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  border-top: 34px solid transparent;
+  border-bottom: 34px solid transparent;
+  border-left: 38px solid white;
+}
+
+.triangle-box {
+  position: relative;
+  width: 95px;
+  height: 95px;
+  background-color: var(--text-orange);
+  box-shadow: 0px 3px 6px var(--shadow);
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.triangle__position {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
