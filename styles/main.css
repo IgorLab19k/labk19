@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 h1,
@@ -16,4 +17,6 @@ p {
 
 main {
   width: 100%;
+  overflow-x: hidden;
 }
+
