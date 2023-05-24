@@ -12,10 +12,14 @@
   font-size: 48px;
   line-height: 58px;
   color: var(--bag-light-blue);
+  font: normal normal normal 48px/58px Montserrat;
+
 }
 
 .join-us__title_white {
   color: var(--text-light-grey);
+  font: normal normal bold 48px/58px;
+  font-weight: 700;
 }
 
 .join-us__input {
