@@ -1,4 +1,6 @@
-@media screen and (max-width: 450px) {
-  .changes-section {
+@media screen and (max-width: 550px) {
+  .join-us .email-form {
+    width: 100% !important;
+    margin: auto;
   }
 }

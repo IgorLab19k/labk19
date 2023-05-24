@@ -39,18 +39,34 @@
 
 /* cards section */
 @media (max-width: 1200px) {
-  /* .card-section {
-    flex-direction: column;
-    height: auto;
-  } */
 
-  /* .card-section {
-    width: 100%;
+  h3 {
+    font-size: 30px;
   }
 
-  .card-section img {
-    width: 100%;
-  } */
+  .join-us {
+    height: auto;
+  }
+
+  .join-us .email-form {
+    width: 70%;
+    margin: auto;
+  }
+
+  .join-us__container {
+    padding: 30px;
+    width: 80%;
+  }
+
+  .join-us__container h3 {
+    width: auto;
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  .join-us__container h3 > br {
+    display: none;
+  }
 
   .card-section .card-text {
     overflow-y: auto;
