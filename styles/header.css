@@ -11,6 +11,7 @@ header > .top-proposal {
 header > .top-proposal h3 {
     font: normal normal bold 24px/29px Montserrat;
     text-transform: uppercase;
+    font-weight: 700;
 }
 
 header > .main-header {

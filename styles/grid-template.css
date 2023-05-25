@@ -19,6 +19,15 @@
   overflow-y: hidden;
 }
 
+.grid-template__container h3 {
+  font: normal normal bold 24px/29px Montserrat;
+  font-weight: 700;
+}
+
+.grid-template__container p {
+  font: normal normal 200 24px/29px Montserrat;
+}
+
 .grid-container__image-container {
   object-fit: cover;
   object-position: center;
