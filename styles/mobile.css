@@ -1,6 +1,40 @@
 @media screen and (max-width: 550px) {
+
+  .video-section {
+    height: 350px;
+  }
+
+  .video-section .video-button {
+    transform: scale(0.5);
+  }
+
   .join-us .email-form {
     width: 100% !important;
     margin: auto;
   }
+
+  .grid-template {
+    height: auto;
+  }
+
+ .grid-template__container {
+   /* grid-template-areas: ; */
+   /* grid-template-rows: repeat(5, 100vw);
+   grid-template-columns: auto;
+   grid-auto-flow: column; */
+   display: flex;
+   flex-wrap: wrap;
+  }
+
+  .grid-template__container .text-block {
+    padding: 10px;
+    aspect-ratio: 1/1;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+  }
+
+  
 }
+
+

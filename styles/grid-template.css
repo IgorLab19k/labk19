@@ -81,3 +81,8 @@
 .grid-container__text-block {
   padding: 75px 57.25px 0 57.25px;
 }
+
+.grid-template ::-webkit-scrollbar {
+  width: 1px;
+  height: 10px;
+}

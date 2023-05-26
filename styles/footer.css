@@ -11,3 +11,12 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.footer__container .offsport__subtitle {
+  font: normal normal normal 16px/32px Montserrat;
+}
+
+.footer__container .offsporter__logo-box {
+  margin-bottom: 112px;
+  margin-top: 33.6px;
+}

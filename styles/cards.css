@@ -31,12 +31,12 @@
 }
 
 .card-text h2 {
-  font: normal normal bold 28px/27px Montserrat;
+  font: normal normal normal 48px/58px Montserrat;
   letter-spacing: 0px;
 }
 
 .card-text p {
-  font: normal normal normal 22px/27px Montserrat;
+  font: normal normal normal 16px/32px Montserrat;
   letter-spacing: 0px;
 }
 
@@ -46,10 +46,10 @@
 }
 
 .card-img > img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    aspect-ratio: 1/1;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1/1;
 }
 
 .offsporter-description > p {
@@ -59,5 +59,10 @@
 
 .offsporter-description .bolder {
   font: normal normal bold 22px/32px Montserrat;
+  letter-spacing: 0px;
+}
+
+.first-text > p {
+  font: normal normal normal 22px/27px Montserrat;
   letter-spacing: 0px;
 }
