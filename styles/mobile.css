@@ -35,6 +35,9 @@
     height: 350px;
   }
 
+  .grid-container__image-container_third {
+    width: 100%;
+  }
   
 }
 
